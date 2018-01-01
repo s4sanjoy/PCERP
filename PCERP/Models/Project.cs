@@ -7,5 +7,6 @@ namespace PCERP.Models
 {
     public class Project
     {
+        public int ProjectId { get; set; }
     }
 }
